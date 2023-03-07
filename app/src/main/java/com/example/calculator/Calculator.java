@@ -12,7 +12,7 @@ public class Calculator {
     }
 
     // Method to subtract two values
-    double SubtractValues(int value1, double value2){
+    double SubtractValues(double value1, double value2){
         double Difference;
         Difference = value1 - value2;
         return Difference;
